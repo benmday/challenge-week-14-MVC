@@ -22,3 +22,48 @@ header, .project:not(:last-child) {
   font-weight: bold;
   margin-left: -5px;
 }
+
+#header {
+  background-color: #ffab2d;
+}
+
+#blog-box {
+  border: solid;
+  border-width: 5px;
+  border-color: black;
+  margin: 5px;
+  background-color: #ffab2d;
+}
+
+#blog-box h2 {
+  background-color: #ffbf60;
+  border: solid;
+  border-width: 5px;
+  border-color: #ffbf60;
+}
+
+#blog-box p {
+  padding: 5px;
+}
+
+#blog-box h6 {
+  padding: 5px;
+  background-color: #ffab2d;
+}
+
+#comment-box {
+  border-top: solid;
+  border-top-width: 5px;
+  border-color: black;
+  padding: 5px;
+  background-color: #ffbf60;
+}
+
+#comment-btn {
+  margin: 5px;
+}
+
+#comment-div {
+  margin: 5px;
+  background-color: #ffbf60;
+}

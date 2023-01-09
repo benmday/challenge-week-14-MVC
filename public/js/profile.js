@@ -18,6 +18,7 @@ const newFormHandler = async (event) => {
     } else {
       alert('Failed to create post');
     }
+    console.log(response);
   }
 };
 
